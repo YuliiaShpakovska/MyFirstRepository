@@ -6,6 +6,8 @@ public class Main {
         int b = 4;
         if (a + b >= 9) {
             System.out.println("Hello there");
+        } else {
+            System.out.println("nothing happened");
         }
     }
 }
